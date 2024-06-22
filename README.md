@@ -1,6 +1,6 @@
 ### Hello, I'm Akil Shaikh 👋
 
-I'm a Master of Computer Science (MCS) student at Fergusson College with a passion for [ open-source projects, machine learning, web development]. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a Master of Computer Science (MCS) student at Fergusson College with a passion for  open-source projects, machine learning, web development. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 - 🔭 I’m currently working on  machine learning project, a new porfolio web app
 - 🌱 I’m currently learning React, Python

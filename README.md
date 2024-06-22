@@ -6,18 +6,18 @@ I'm a Master of Computer Science (MCS) student at Fergusson College with a passi
 - 🌱 I’m currently learning React, Python
 - 👯 I’m looking to collaborate on Ai Projects like jarvis and edith
 - 💬 Ask me about Python, Frontend,DSA
-- 📫 How to reach me: www.linkedin.com/in/akil-shaikh-93a5971b2
+- 📫 How to reach me: akilshaikh4161@gmail.com
 - 😄 Pronouns:  he/him
-- ⚡ Fun fact: [A Fun Fact About You, e.g., I love hiking and have climbed 5 of the 7 summits]
+- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 
 ### Skills
 - **Programming Languages:** Python, Java, C,javascript
 - **Frameworks & Libraries:**  React, Node.js, Flask,tkinter
-- **Tools & Platforms:** [Tools and Platforms, e.g., Docker, AWS, Git]
+- **Tools & Platforms:**  Git,Github,Visual Studio
 - **Databases:**MySQL, MongoDB
 
 ### Projects
-- [Project Name](link to project): Short description of the project and your role.
+- QR-Based-Attendance-Tracking-And-Gate-Security-System([link to project](https://github.com/Akilshaik/QR-Based-Attendance-Tracking-And-Gate-Security-System)): This Project contains a web application developed using Flask for managing and tracking user entry and exit times through QR code scanning. The application is designed to handle multiple roles such as Admin, Security Guard, and Users, providing different levels of access and functionality.
 - [Project Name](link to project): Short description of the project and your role.
 
 ### Connect with me:

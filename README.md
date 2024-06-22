@@ -17,9 +17,10 @@ I'm a Master of Computer Science (MCS) student at Fergusson College with a passi
 - **Databases:**MySQL, MongoDB
 
 ### Projects
-- QR-Based-Attendance-Tracking-And-Gate-Security-System([link to project](https://github.com/Akilshaik/QR-Based-Attendance-Tracking-And-Gate-Security-System)): This Project contains a web application developed using Flask for managing and tracking user entry and exit times through QR code scanning. The application is designed to handle multiple roles such as Admin, Security Guard, and Users, providing different levels of access and functionality.
-- [Project Name](link to project): Short description of the project and your role.
-
+- QR-Based-Attendance-Tracking-And-Gate-Security-System([link to project](https://github.com/Akilshaik/QR-Based-Attendance-Tracking-And-Gate-Security-System)):
+  This Project contains a web application developed using Flask for managing and tracking user entry and exit times through QR code scanning. The application is designed to handle multiple roles such as Admin, Security Guard, and Users, providing different levels of access and functionality.
+- Weather Prediction App Using KNN Algorithm([link to project](https://github.com/Akilshaik/weather-app-using-KNN-Algo)):
+   This project built with React for the front-end and a K-Nearest Neighbors (KNN) algorithm for weather prediction. The project demonstrates the application of KNN Algorithm in predicting weather conditions based on historical data.
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/akil-shaikh-93a5971b2)
 

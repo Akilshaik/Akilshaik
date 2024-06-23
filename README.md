@@ -22,6 +22,6 @@ I'm a Master of Computer Science (MCS) student at Fergusson College with a passi
 - Weather Prediction App Using KNN Algorithm([link to project](https://github.com/Akilshaik/weather-app-using-KNN-Algo)):
    This project built with React for the front-end and a K-Nearest Neighbors (KNN) algorithm for weather prediction. The project demonstrates the application of KNN Algorithm in predicting weather conditions based on historical data.
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/akil-shaikh-93a5971b2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/akil-shaikh-93a5971b2/)
 
 

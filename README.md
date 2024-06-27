@@ -14,7 +14,7 @@ I'm a Master of Computer Science (MCS) student at Fergusson College with a passi
 - **Programming Languages:** Python, Java, C,javascript
 - **Frameworks & Libraries:**  React, Node.js, Flask,tkinter
 - **Tools & Platforms:**  Git,Github,Visual Studio
-- **Databases:**MySQL, MongoDB
+- **Databases:** MySQL, MongoDB
 
 ### Projects
 - QR-Based-Attendance-Tracking-And-Gate-Security-System([link to project](https://github.com/Akilshaik/QR-Based-Attendance-Tracking-And-Gate-Security-System)):
